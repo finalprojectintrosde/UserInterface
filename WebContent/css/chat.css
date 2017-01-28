@@ -1,0 +1,45 @@
+body{
+	 background-image: url("../images/background.jpg");
+}
+
+ .message-bubble 
+{
+    padding: 10px 0px 10px 0px;
+}
+
+.message-bubble:nth-child(even) { background-color: #F5F5F5; }
+
+.message-bubble > *
+{
+    padding-left: 10px;    
+	}
+
+
+.row{
+}
+.panel-heading { 
+color: white !important; 
+text-align:center;
+background-color:white;
+}
+
+.container{
+	background-color:white;
+margin-bottom:20px;
+min-height:700 px;
+border-radius: 20px;
+	
+}
+tr:nth-child(even) {
+
+ background-color: #F5F5F5;
+}
+.table{
+	height: 50px;
+}
+.goals{width:400px;}
+.table:nth-child(even){
+	background-color: #F5F5F5;
+}
+td{ height: 50px;
+    font-size: medium;}

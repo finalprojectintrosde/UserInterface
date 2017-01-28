@@ -8,3 +8,4 @@ The application is composed by two different System logics, one used in order to
 The application lifecycle is based on a random call done every 10 seconds of all the methods present in the two ProcessCentric services devloped.
 Other services will be called in order to show the user information.
 
+![image](https://cloud.githubusercontent.com/assets/22235696/22397791/af73a4be-e579-11e6-87b6-46c6000c78d4.png)

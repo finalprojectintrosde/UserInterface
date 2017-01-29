@@ -9,3 +9,8 @@ The application lifecycle is based on a random call done every 10 seconds of all
 Other services will be called in order to show the user information.
 
 ![image](https://cloud.githubusercontent.com/assets/22235696/22397791/af73a4be-e579-11e6-87b6-46c6000c78d4.png)
+
+#Note:
+Since at first, we didn't understand how to deliver the report, we wrote in the submit form that this readme would be the description file. Actually this is not the description file but just a little introduction to the project.
+The real description file is located in the repository as "Description.docx".
+Furthrmore the api documentation of every service is listed on the readme of each repository.
